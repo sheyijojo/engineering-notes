@@ -1,13 +1,13 @@
-# Importing a live AWS estate into Terraform
+# terraform-import-live-aws-estate
 
-## Summary
+## Problem
 
-Import, plan, approve, apply. How live accounts were brought under Terraform with no outages, using import instead of recreate and a zero-diff plan.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon

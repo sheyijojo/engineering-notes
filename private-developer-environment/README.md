@@ -1,13 +1,13 @@
-# A private developer environment
+# private-developer-environment
 
-## Summary
+## Problem
 
-Self-service environments behind a VPN, built from reviewed pull requests.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon

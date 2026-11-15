@@ -1,13 +1,13 @@
-# Governing 268 non-compliant resources
+# governing-268-noncompliant-resources
 
-## Summary
+## Problem
 
-Config recorders, findings triage and a path from red to green.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon

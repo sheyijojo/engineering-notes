@@ -1,13 +1,13 @@
-# Keyless pipelines with GitHub Actions OIDC
+# keyless-pipelines-github-actions-oidc
 
-## Summary
+## Problem
 
-No stored cloud credentials. Trust policies scoped to repository and environment.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon

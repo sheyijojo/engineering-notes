@@ -1,13 +1,13 @@
-# The production API that hung
+# production-api-that-hung
 
-## Summary
+## Problem
 
-A production API where most requests took 20 seconds or more. How the cause was found and what changed.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon

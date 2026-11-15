@@ -1,13 +1,13 @@
-# Least privilege without slowing teams down
+# least-privilege-without-slowing-teams
 
-## Summary
+## Problem
 
-Role design, access reviews and the guardrails that make the safe path the easy one.
+## Layer
 
-## Diagram
+## Decisions
 
-_Placeholder: diagram to be added._
+## Result
 
-## What changed
+## Next step
 
-_Placeholder: before and after to be added._
+Diagram: coming soon
