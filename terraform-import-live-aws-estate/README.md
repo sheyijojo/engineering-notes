@@ -10,4 +10,4 @@
 
 ## Next step
 
-Diagram: coming soon
+![Terraform import flow](terraform-import.png)
